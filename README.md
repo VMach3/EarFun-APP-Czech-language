@@ -1,4 +1,4 @@
-[https://i.imgur.com/2WCUGcP.png]
+![EarFun logo](https://i.imgur.com/2WCUGcP.png)
 
 Based on a work at https://www.myearfun.com/
 
