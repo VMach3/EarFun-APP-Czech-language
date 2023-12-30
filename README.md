@@ -1,4 +1,4 @@
-[img]https://i.imgur.com/2WCUGcP.png[/img]
+[https://i.imgur.com/2WCUGcP.png]
 
 Based on a work at https://www.myearfun.com/
 
