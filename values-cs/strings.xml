@@ -151,7 +151,7 @@ automaticky"</string>
     <string name="feedback_your_feedback">Vaše zpětná vazba *</string>
     <string name="female">Žena</string>
     <string name="file_permission_request_fail">Požadavek na povolení přístupu k úložišti zařízení se nezdařil, což může ovlivnit využití softwaru. Chcete přejít do nastavení a povolit oprávnění?</string>
-    <string name="find_ear_tips1">Pro vyhledávání klikněte na levé, pravé nebo obě sluchátka</string>
+    <string name="find_ear_tips1">Pro vyhledávání vyberte levé, pravé nebo obě sluchátka</string>
     <string name="find_headphones">Najít sluchátka</string>
     <string name="find_headphones_play">Přehrát zvuk</string>
     <string name="find_headphones_stop">Zastavit</string>
@@ -196,7 +196,7 @@ automaticky"</string>
     <string name="item_dual_device">Připojení dvou zařízení</string>
     <string name="item_view_role_description">Tab</string>
     <string name="item_voice_setting">Nastavení hlasového průvodce</string>
-    <string name="key_set_tips">● Klikněte na „Levé“ nebo „Pravé“ sluchátko pro samostatné nastavení.</string>
+    <string name="key_set_tips">● Klikněte na „Levé“ nebo „Pravé“ sluchátko pro jednotlivé nastavení.</string>
     <string name="key_set_title">Funkce tlačítek sluchátek</string>
     <string name="keys_setting">Přizpůsobit ovládací prvky</string>
     <string name="keyset_close">Vypnutí</string>
@@ -405,8 +405,8 @@ Pokud souhlasíte, klikněte na Souhlasím, abyste získali naši službu."</str
     <string name="setting_mode_change">Přepínání režimů</string>
     <string name="single_connect_before_update">Připojte prosím obě sluchátka současně.</string>
     <string name="sound_quality_filst_subtitle">Poskytuje vysoce kvalitní zvukový zážitek</string>
-    <string name="sound_quality_first">Kvalita zvuku na prvním místě</string>
-    <string name="stable_connection_first">Stabilní připojení na prvním místě</string>
+    <string name="sound_quality_first">Preferovat kvalitu zvuku</string>
+    <string name="stable_connection_first">Preferovat stabilní připojení</string>
     <string name="stable_connection_first_subtitle">Pokud zvuk často zadrhává nebo přeskakuje, vyberte stabilní připojení.</string>
     <string name="sure">Rozumím</string>
     <string name="switch_dev_tips">"1) Opravdu chcete změnit zařízení?
