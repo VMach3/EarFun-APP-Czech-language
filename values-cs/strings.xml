@@ -190,13 +190,13 @@ automaticky"</string>
     <string name="how_to_wear">Jak nosit</string>
     <string name="icon_content_description">Ikona dialogového okna</string>
     <string name="initialisation">Inicializace</string>
-    <string name="inr_mode">Detekce do uší</string>
+    <string name="inr_mode">Detekce v uších</string>
     <string name="install">Instalovat</string>
     <string name="installing">Instalace...</string>
     <string name="item_dual_device">Připojení dvou zařízení</string>
     <string name="item_view_role_description">Tab</string>
     <string name="item_voice_setting">Nastavení hlasového průvodce</string>
-    <string name="key_set_tips">● Klikněte na „Levé“ nebo „Pravé“ sluchátko pro jednotlivé nastavení.</string>
+    <string name="key_set_tips">● Vyberte „Levé“ nebo „Pravé“ sluchátko pro jednotlivá nastavení.</string>
     <string name="key_set_title">Funkce tlačítek sluchátek</string>
     <string name="keys_setting">Přizpůsobit ovládací prvky</string>
     <string name="keyset_close">Vypnutí</string>
@@ -314,8 +314,8 @@ zvuk"</string>
     <string name="next_step">Další</string>
     <string name="nickname_hint">Zadejte přezdívku pro své zařízení</string>
     <string name="nickname_history">Předchozí název</string>
-    <string name="nickname_limit">Nastavte prosím 2–25 bajtů, kromě emodži</string>
-    <string name="nickname_tips">Přímo vyberte předchozí jméno.</string>
+    <string name="nickname_limit">Zadejte prosím 2–25 bajtů, vynechte emodži</string>
+    <string name="nickname_tips">Vlastní název zařízení.</string>
     <string name="no_bluettoth_next">Povolit</string>
     <string name="no_location_next">Povolit přístup k poloze</string>
     <string name="no_location_tips1">„Aplikace EarFun Audio používá k nalezení vašich zařízení EarFun Bluetooth Low Energy (BLE).</string>
