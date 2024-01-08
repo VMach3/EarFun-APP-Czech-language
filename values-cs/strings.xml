@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Sbalit</string>
     <string name="search_menu_title">Hledat</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-	<string name="adaptive_eq_tips">" 1) Test trvá přibližně 1 minutu.
+    <string name="adaptive_eq_tips">" 1) Test trvá přibližně 1 minutu.
 2) Používejte sluchátka na tichém místě.
 3) Klikněte na Slyším, když během testu uslyšíte zvuky, pokud ne, nedělejte nic.
 4) Před testováním vypněte hudbu, abyste ochránili svůj sluch. "</string>
@@ -440,12 +440,12 @@ Pokud souhlasíte, klikněte na Souhlasím, abyste získali naši službu."</str
     <string name="tw100s_ota_64">Chyba Seq</string>
     <string name="tw100s_ota_65">Chyba délky dat</string>
     <string name="ultra_low">Ultra nízká frekvence</string>
-    <string name="unlogin_tips">Momentálně v režimu hosta. Připojte se k EarFun Audio a využijte slevy a výhody členství.</string>
+    <string name="unlogin_tips">Momentálně jste v režimu hosta. Připojte se k EarFun Audio a využijte slevy a výhody členství.</string>
     <string name="update_complete">Aktualizace dokončena</string>
     <string name="update_content">Aktualizovaný obsah</string>
     <string name="update_fail">Aktualizace se nezdařila</string>
     <string name="update_success">Aktualizace byla úspěšně dokončena. Současná verze je nejnovější</string>
-    <string name="upgrade">aktualizace</string>
+    <string name="upgrade">Aktualizovat</string>
     <string name="upgrade_end_aborted">Aktualizace byla přerušena</string>
     <string name="upgrade_finish_complete">Aktualizace byla úspěšně dokončena.</string>
     <string name="upgrade_finish_complete_reconnect_hint">Aktualizace byla úspěšná, čeká se na restartování zařízení</string>
