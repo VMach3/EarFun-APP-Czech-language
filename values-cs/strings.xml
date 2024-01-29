@@ -51,6 +51,7 @@
     <string name="anc_subway">Uši 2</string>
     <string name="anc_wind_noise">Potlačení hluku větru</string>
     <string name="app_features">Funkce</string>
+    <string name="app_name">EarFun Audio</string>
     <string name="app_new_version">Aktualizace nové verze</string>
     <string name="audio_quality_change_tips">Přepínání. Sluchátka se restartují…</string>
     <string name="audio_quality_set_tips">"Přepnutí kvality zvuku způsobí restartování sluchátek.
@@ -78,6 +79,8 @@ automaticky"</string>
     <string name="cancel_account_tips">Opravdu chcete odstranit svůj účet?</string>
     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
     <string name="character_counter_overflowed_content_description">Byl překročen limit počtu znaků %1$d z %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Vymazat text</string>
     <string name="connect_btn_no_dev">Zařízení není na seznamu?</string>
     <string name="connect_help">Připojit %s sluchátka</string>
@@ -124,6 +127,11 @@ automaticky"</string>
     <string name="earfun_equalizer">EarFun Ekvalizér</string>
     <string name="edit">Upravit</string>
     <string name="eq">EarFun Ekvalizér</string>
+    <string name="eq_adaptive_cerate_tips">Probíhá vylepšený profil kvality zvuku.</string>
+    <string name="eq_adaptive_last_step">Předchozí</string>
+    <string name="eq_adaptive_next_step">Další</string>
+    <string name="eq_adaptive_start">Připraveno</string>
+    <string name="eq_adaptive_test_finish">Vytvořit profil</string>
     <string name="eq_adaptive_test_tips">Posunutím pruhu hlasitosti doleva a doprava najděte kritický bod, kde zvuk kapání právě zmizí.</string>
     <string name="eq_adaptive_tips">Dokončení celého testu trvá asi tři minuty. Nasaďte si sluchátka a najděte si klidné místo k testování. Před testem nezapomeňte vypnout hudbu, abyste si nepoškodili sluch nadměrnou hlasitostí.</string>
     <string name="eq_classic">EarFun Klasika</string>
@@ -189,6 +197,7 @@ automaticky"</string>
     <string name="history_device">Historický záznam</string>
     <string name="how_to_wear">Jak nosit</string>
     <string name="icon_content_description">Ikona dialogového okna</string>
+    <string name="important_note">Důležité upozornění</string>
     <string name="initialisation">Inicializace</string>
     <string name="inr_mode">Detekce v uších</string>
     <string name="install">Instalovat</string>
@@ -271,9 +280,11 @@ zvuk"</string>
     <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
     <string name="mtrl_chip_close_icon_content_description">Odebrat %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových oznámení</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Změnit na příští měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Změnit na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
     <string name="mtrl_picker_day_of_week_column_header">Sloupec dní: %1$s</string>
@@ -446,6 +457,7 @@ Pokud souhlasíte, klikněte na Souhlasím, abyste získali naši službu."</str
     <string name="update_fail">Aktualizace se nezdařila</string>
     <string name="update_success">Aktualizace byla úspěšně dokončena. Současná verze je nejnovější</string>
     <string name="upgrade">Aktualizovat</string>
+    <string name="upgrade_again">Nepodařilo se aktualizovat na nejnovější verzi firmwaru. Zkuste aktualizaci opakovat.</string>
     <string name="upgrade_end_aborted">Aktualizace byla přerušena</string>
     <string name="upgrade_finish_complete">Aktualizace byla úspěšně dokončena.</string>
     <string name="upgrade_finish_complete_reconnect_hint">Aktualizace byla úspěšná, čeká se na restartování zařízení</string>
