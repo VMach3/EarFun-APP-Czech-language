@@ -39,6 +39,8 @@
     <string name="already_latest_version">Vaše zařízení je již aktuální.</string>
     <string name="alto">Střední</string>
     <string name="ambient_sound_tips">Poslouchejte okolní zvuky pro snadnou konverzaci s ostatními.</string>
+    <string name="anc_1">Silné ANC</string>
+    <string name="anc_2">Komfortní ANC</string>
     <string name="anc_airplane">Uši 3</string>
     <string name="anc_commute_node">Přizpůsobivé uchu</string>
     <string name="anc_commute_node_tips">Přizpůsobení individuálním zvukovodům pro lepší Potlačení hluku.</string>
@@ -59,6 +61,13 @@
     <string name="audio_quality_set_tips1">K přepnutí dojde po kliknutí na Rozumím.</string>
     <string name="auto_login">"Přihlašování
 automaticky"</string>
+    <string name="auto_off">Automatické vypnutí</string>
+    <string name="auto_off_120_min">120 minut</string>
+    <string name="auto_off_30_min">30 minut</string>
+    <string name="auto_off_60_min">60 minut</string>
+    <string name="auto_off_90_min">90 minut</string>
+    <string name="auto_off_not">Žádné automatické vypnutí</string>
+    <string name="auto_off_tips">Když se odpojí připojení Bluetooth, sluchátka se po určité době automaticky vypnou. V připojeném stavu se sluchátka nikdy nevypnou.</string>
     <string name="back">Zpět</string>
     <string name="bass">Basy</string>
     <string name="bass_enhancement">Zvýraznění basů</string>
@@ -94,20 +103,34 @@ automaticky"</string>
     <string name="dev_nickname_length">(Nemůže překročit %s bajtů)</string>
     <string name="dev_question">Nejčastější dotazy</string>
     <string name="dev_rename_tips_1">1) Po úpravě názvu vložte sluchátka do nabíjecího pouzdra a zavřete ho,</string>
+	<string name="dev_rename_tips_1_hp200">Po dokončení úpravy názvu se sluchátka automaticky restartují.</string>
     <string name="dev_rename_tips_2">pak počkejte 10 sekund!</string>
+	<string name="dev_rename_tips_2_hp200">Počkejte prosím 10 sekund.</string>
     <string name="dev_rename_tips_3">"
 
 2) Odstraňte staré připojení Bluetooth v nastavení;
 
 3) Poté otevřete nabíjecí pouzdro, znovu vyhledejte zařízení a název se úspěšně upraví.
 "</string>
+    <string name="dev_rename_tips_3_hp200">"
+
+Ignorujte původní zařízení v nastavení Bluetooth.
+Vypněte a znovu zapněte, poté vyhledejte a připojte se k zařízení s novým názvem.
+"</string>
     <string name="dev_reset_tips_1">1) Po obnovení továrního nastavení, vložte prosím sluchátka zpět do nabíjecího pouzdra a zavřete ho,</string>
+	<string name="dev_reset_tips_1_hp200">Po obnovení nastavení se sluchátka restartují.</string>
     <string name="dev_reset_tips_2">pak počkejte 10 sekund!</string>
+	<string name="dev_reset_tips_2_hp200">Počkejte prosím 10 sekund!</string>
     <string name="dev_reset_tips_3">"
 
 2) Odstraňte staré připojení Bluetooth v nastavení;
 
 3) Poté otevřete nabíjecí pouzdro a znovu vyhledejte zařízení %s a obnovení bude úspěšné.
+"</string>
+    <string name="dev_reset_tips_3_hp200">"
+
+Ignorujte původní zařízení v nastavení Bluetooth.
+Vypněte a znovu zapněte, poté vyhledejte a připojte se k %s.
 "</string>
     <string name="device_disconnect_hint">Zařízení ještě není připojeno. Přejděte prosím na domovskou stránku – Upravit, připojte zařízení a zkuste to znovu.</string>
     <string name="device_name">Název zařízení</string>
@@ -122,6 +145,8 @@ automaticky"</string>
     <string name="dual_dev_connect_new_hint">Stav párování aktivován. Dokončete párování na jiném zařízení Bluetooth.</string>
     <string name="dual_dev_disconnect_tips">Pokud je toto zařízení připojeno ke sluchátkům přes aplikaci, odpojení způsobí odpojení aplikace a sluchátek.</string>
     <string name="dual_dev_setmode">Přepínání, asi 3 sekundy</string>
+	<string name="dual_dev_tips">"1. Chcete-li zajistit stabilitu signálu Bluetooth, nepovolujte současně funkce LDAC a připojení dvou zařízení!
+2. Změna funkce připojení dvou zařízení způsobí restart sluchátek. Potvrďte prosím, zda chcete pokračovat ve změně?"</string>
     <string name="ear_prompt_vol">Hlasitost oznamovacího tónu</string>
     <string name="ear_voice_ota_title">Jazyk oznámení sluchátek</string>
     <string name="earfun_equalizer">EarFun Ekvalizér</string>
@@ -172,6 +197,9 @@ automaticky"</string>
 2. Nechte obě sluchátka připojená k telefonu a nezapínejte přehrávání hudby.
 3. Ujistěte se, že obě sluchátka mají více než 50 % baterie.
 4. Neopouštějte stránku aktualizace a neminimalizujte aplikaci na pozadí."</string>
+    <string name="firmware_attention_hint_earfun_hp200">"1. Nechte sluchátka připojená k telefonu a nepřehrávejte hudbu.
+2. Ujistěte se, že úroveň nabití baterie sluchátek je vyšší než 30 %.
+3. Neopouštějte stránku aktualizace a neminimalizujte aplikace na pozadí."</string>
     <string name="firmware_size">Velikost</string>
     <string name="firmware_update">Verze firmwaru</string>
     <string name="firmware_version">Verze</string>
@@ -196,6 +224,9 @@ automaticky"</string>
     <string name="hint">Tipy</string>
     <string name="history_device">Historický záznam</string>
     <string name="how_to_wear">Jak nosit</string>
+	<string name="hp200_key_set_tips">Pro nastavení klikněte na +, - nebo NC</string>
+    <string name="hp200_ota_success">Upgrade byl úspěšný. Podržte prosím dlouze tlačítko zapínání.</string>
+    <string name="hp200_ota_wait">Kontrola dat, prosím nepoužívejte sluchátka. Odhadovaný čas: 30 sekund. Čekejte prosím.</string>
     <string name="icon_content_description">Ikona dialogového okna</string>
     <string name="important_note">Důležité upozornění</string>
     <string name="initialisation">Inicializace</string>
@@ -363,6 +394,9 @@ zvuk"</string>
 4. Udržujte sluchátka ve vzdálenosti do 0,2 m od telefonu!
 5. Vyberte jazyk a stiskněte tlačítko Potvrdit pro zahájení přenosu!"</string>
     <string name="ota_voice_content_210">1. Vyberte jazyk a stisknutím tlačítka Potvrdit zahajte přenos;</string>
+	<string name="ota_voice_content_hp200">"Neodpojujte ani nevypínejte sluchátka během procesu nastavení.
+Udržujte sluchátka v dosahu 0,2 m od telefonu.
+Vyberte jazyk, stiskněte tlačítko Potvrdit a nastavení začne."</string>
     <string name="ota_voice_tips">Vysvětlení：</string>
     <string name="passthrough_onoff">Okolní zvuk ZAP/VYP</string>
     <string name="password_toggle_content_description">Zobrazit heslo</string>
@@ -378,8 +412,11 @@ Pokud souhlasíte, klikněte na Souhlasím, abyste získali naši službu."</str
     <string name="product_help">Výukový program k produktu</string>
     <string name="product_help_go_setting">Připojování k vašemu zařízení</string>
     <string name="product_help_step1">Krok 1: Otevřete nabíjecí pouzdro, sluchátka se automaticky zapnou a přejdou do režimu párování.</string>
-    <string name="product_help_step2">Krok 2: Aktivujte Bluetooth na svém zařízení a vyhledejte další zařízení Bluetooth.</string>
-    <string name="product_help_step3">Krok 3: Ze seznamu zobrazených zařízení Bluetooth vyberte „%s“ (pokud je vyžadováno heslo, zadejte „0000“).</string>
+	<string name="product_help_step1_hp200">Krok 1: Sluchátka po zapnutí automaticky přejdou do režimu párování (nebo do režimu párování vstoupíte trojitým kliknutím na tlačítko zapínání).</string>
+    <string name="product_help_step2">Krok 2: Povolte na svém zařízení Bluetooth a vyhledejte nová zařízení.</string>
+	<string name="product_help_step2_hp200">Krok 2: Povolte na svém zařízení Bluetooth a vyhledejte nová zařízení.</string>
+    <string name="product_help_step3">Krok 3: Ze seznamu zobrazených zařízení Bluetooth vyberte „%s“ (pokud budete vyzváni k zadání hesla, zadejte „0000“).</string>
+	<string name="product_help_step3_hp200">Krok 3: Vyberte %s ze zobrazeného seznamu zařízení Bluetooth (pokud budete vyzváni k zadání hesla, zadejte 0000).</string>
     <string name="product_help_title">"Připojuji se
 %s"</string>
     <string name="proudct_new">Nově příchozí!</string>
@@ -499,5 +536,5 @@ Zařízení se později restartuje a nainstaluje aktualizaci."</string>
     <string name="voice_assistant">Hlasový asistent</string>
     <string name="wear_01">Proveďte test uchycení ušních koncovek a vyberte jejich správnou velikost.</string>
     <string name="wear_02">Určete levé a pravé sluchátko (L pro levé ucho, R pro pravé ucho).</string>
-    <string name="wear_03">Vložte sluchátka do zvukovodu a otočením je uzamkněte.</string>
+    <string name="wear_03">Vložte sluchátka do zvukovodu a otočením je uzamkněte.</string>   
 </resources>
