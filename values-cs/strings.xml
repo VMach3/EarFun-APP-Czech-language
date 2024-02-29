@@ -39,8 +39,8 @@
     <string name="already_latest_version">Vaše zařízení je již aktuální.</string>
     <string name="alto">Střední</string>
     <string name="ambient_sound_tips">Poslouchejte okolní zvuky pro snadnou konverzaci s ostatními.</string>
-    <string name="anc_1">Silné ANC</string>
-    <string name="anc_2">Komfortní ANC</string>
+    <string name="anc_1">Silné Potlačení hluku</string>
+    <string name="anc_2">Komfortní Potlačení hluku</string>
     <string name="anc_airplane">Uši 3</string>
     <string name="anc_commute_node">Přizpůsobivé uchu</string>
     <string name="anc_commute_node_tips">Přizpůsobení individuálním zvukovodům pro lepší Potlačení hluku.</string>
@@ -536,5 +536,5 @@ Zařízení se později restartuje a nainstaluje aktualizaci."</string>
     <string name="voice_assistant">Hlasový asistent</string>
     <string name="wear_01">Proveďte test uchycení ušních koncovek a vyberte jejich správnou velikost.</string>
     <string name="wear_02">Určete levé a pravé sluchátko (L pro levé ucho, R pro pravé ucho).</string>
-    <string name="wear_03">Vložte sluchátka do zvukovodu a otočením je uzamkněte.</string>   
+    <string name="wear_03">Vložte sluchátka do zvukovodu a otočením je uzamkněte.</string>
 </resources>
