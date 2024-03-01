@@ -250,12 +250,19 @@ Vypněte a znovu zapněte, poté vyhledejte a připojte se k %s.
     <string name="keyset_third_click">Trojí poklepání</string>
     <string name="keyset_vol_down">Snížit hlasitost</string>
     <string name="keyset_vol_up">Zvýšení hlasitosti</string>
-    <string name="lang_de">Německy</string>
+    <string name="lang_china">Čínština</string>
+    <string name="lang_de">Němčina</string>
     <string name="lang_en">Angličtina</string>
-    <string name="lang_es">Španělsky</string>
-    <string name="lang_fr">Francousky</string>
+    <string name="lang_es">Španělština</string>
+    <string name="lang_fr">Francouština</string>
+    <string name="lang_jp">Japonština</string>
+    <string name="lang_ko">Korejština</string>
+    <string name="lang_pl">Polština</string>
     <string name="lang_tips">Preferované jazyky</string>
     <string name="lang_title">Přepínání jazyků</string>
+    <string name="lang_zh">Zjednodušená čínština</string>
+    <string name="lang_zh_tw">Tradiční čínština</string>
+    <string name="ldac_subtitle">Vychutnejte si vysoce kvalitní zvuk, ale může zkrátit výdrž baterie a v některých situacích může dojít ke zpoždění. Doporučeno pro použití do 2 metrů.</string>
     <string name="ldac_tips">"1. Po potvrzení se sluchátka restartují.
 2. Pro plynulé přehrávání se prosím vyhněte současné aktivaci LDAC a připojení dvou zařízení!"</string>
     <string name="le_audio">LE Audio</string>
