@@ -59,8 +59,8 @@
     <string name="audio_quality_set_tips">"Přepnutí kvality zvuku způsobí restartování sluchátek.
 ● Nefunguje-li, odstraňte záznam párování zařízení Bluetooth a znovu se připojte."</string>
     <string name="audio_quality_set_tips1">K přepnutí dojde po kliknutí na Rozumím.</string>
-    <string name="auto_login">"Přihlašování
-automaticky"</string>
+    <string name="auto_login">"Automatické
+přihlašování"</string>
     <string name="auto_off">Automatické vypnutí</string>
     <string name="auto_off_120_min">120 minut</string>
     <string name="auto_off_30_min">30 minut</string>
@@ -469,6 +469,13 @@ Pokud souhlasíte, klikněte na Souhlasím, abyste získali naši službu."</str
     <string name="tips_check_agreement_private">Přečtěte si a zkontrolujte Zásady ochrany osobních údajů a uživatelskou smlouvu.</string>
     <string name="tips_dev_offline">Zařízení bylo odpojeno. Připojte se znovu.</string>
     <string name="tips_dual_device">K zařízení můžete současně připojit až dvě zařízení. Chcete-li se připojit k novému zařízení, odpojte jedno z aktuálně spárovaných zařízení.</string>
+	<string name="tips_dual_device_1">Ke sluchátkům můžete připojit dvě zařízení Bluetooth. To však může snížit výdrž baterie a v některých situacích může docházet k zadrhávání.</string>
+    <string name="tips_dual_device_2">Poznámka: Povolením připojení dvou zařízení se automaticky deaktivuje funkce LDAC.</string>
+    <string name="tips_dual_device_3">Poznámka: Chcete-li zajistit stabilní signál Bluetooth, nepovolujte současně připojení dvou zařízení a funkci LDAC.</string>
+    <string name="tips_ldac_quality">"Vychutnejte si zvuk ve vysoké kvalitě
+(Může to zkrátit výdrž baterie, některé scény se mohou zadrhávat, doporučujeme používat do 2 metrů)"</string>
+    <string name="tips_ldac_quality_1">Poznámka: Povolením LDAC se automaticky deaktivuje funkce připojení dvou zařízení.</string>
+    <string name="tips_ldac_quality_2">Poznámka: Chcete-li zajistit stabilní signál Bluetooth, nepovolujte současně funkce LDAC a připojení dvou zařízení.</string>
     <string name="tips_no_function">Tento model sluchátek tuto funkci dočasně nepodporuje.</string>
     <string name="tips_rename_emoji">Název zařízení Bluetooth nemůže obsahovat emotikony.</string>
     <string name="tips_tws_no_connect">Vyžaduje současné připojení levého i pravého sluchátka</string>
