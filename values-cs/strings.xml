@@ -224,8 +224,9 @@ Vypněte a znovu zapněte, poté vyhledejte a připojte se k %s.
     <string name="hint">Tipy</string>
     <string name="history_device">Historický záznam</string>
     <string name="how_to_wear">Jak nosit</string>
-	<string name="hp200_key_set_tips">Pro nastavení klikněte na +, - nebo NC</string>
-    <string name="hp200_ota_success">Upgrade byl úspěšný. Podržte prosím dlouze tlačítko zapínání.</string>
+    <string name="hp200_key_set_tips">Pro nastavení klikněte na +, - nebo NC</string>
+    <string name="hp200_ota_dialog">Aktualizace přináší lepší výkon a stabilitu.</string>
+    <string name="hp200_ota_success">Aktualizace byla úspěšná. Podržte prosím dlouze tlačítko zapínání.</string>
     <string name="hp200_ota_wait">Kontrola dat, prosím nepoužívejte sluchátka. Odhadovaný čas: 30 sekund. Čekejte prosím.</string>
     <string name="icon_content_description">Ikona dialogového okna</string>
     <string name="important_note">Důležité upozornění</string>
